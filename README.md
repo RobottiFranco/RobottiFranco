@@ -4,4 +4,4 @@
 - 💞️ I'm looking to collaborate on desktop programs, web pages and more.
 - 📫 How to contact me: 
     - through my personal email: Franco.Robotti0@gmail.com
-    - or my Linkedin profile: linkedin.com/in/franco-robotti-415786229/
+    - or my Linkedin profile: https://www.linkedin.com/in/franco-robotti-415786229/
