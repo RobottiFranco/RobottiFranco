@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobottiFranco
 - 👀 I’m interested in the continuous learning, new technologies, the English language and coffee!
 - 🌱 I’m currently learning JavaScript, HTML and CSS!
-- 💞️ I'm looking to collaborate on desktop programs, web pages and more.
+- 💞️ I'm looking to collaborate on desktop programs, web apps and more.
 - 📫 How to contact me: 
     - through my personal email: Franco.Robotti0@gmail.com
     - or my Linkedin profile: https://www.linkedin.com/in/franco-robotti-415786229/
